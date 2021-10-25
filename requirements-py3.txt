@@ -3,7 +3,5 @@ attrs==18.2.0
 googleapis-common-protos==1.5.8
 grpcio-tools==1.19.0
 more-itertools>=5.0.0
-pluggy==0.8.1
-py>=1.8.2,<1.9.0
 pytest>=4.3.0,<=6.2.3
 six==1.12.0
